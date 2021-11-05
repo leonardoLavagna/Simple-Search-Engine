@@ -1,5 +1,5 @@
 # ADM-HW3
-Simone Chieppa
-Onur Ergun
-Leonardo Lavagna
-Leonardo Skerl
+- Simone Chieppa
+- Onur Ergun
+- Leonardo Lavagna
+- Leonardo Skerl
