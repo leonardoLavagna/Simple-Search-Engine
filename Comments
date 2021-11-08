@@ -1,6 +1,8 @@
 In the second last cell of the notebook 'mainLeoLavagna' you should set the 'path' variable to the actual path you've stored article_0 (for example)
 If you have article_0 in the working directory just write path = 'article_0.html' to test the code
 
+As you can see from the article_0.tsv file there is a probem with releaseDate and endDate. 
+
 The first part of the code was done with Onur's contribution. 
 
 I've decided to keep the part 1.2 'Crawl animes' as it is. It takes a lot of time to create the directory tree, but I think it is better to wait
