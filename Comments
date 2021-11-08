@@ -1,0 +1,2 @@
+In the second last cell of the notebook 'mainLeoLavagna' you should set the 'path' variable to the actual path you've stored article_0 (for example)
+If you have article_0 in the working directory just write path = 'article_0.html' to test the code
