@@ -1,4 +1,4 @@
-In the second last cell of the notebook 'mainLeoLavagna' you should set the 'path' variable to the actual path you've stored article_0 (for example)
+You should set the 'path' variables to the actual path you've stored article_0 (for example)
 If you have article_0 in the working directory just write path = 'article_0.html' to test the code
 
 As you can see from the article_0.tsv file there is a probem with releaseDate and endDate. 
@@ -10,3 +10,6 @@ Onur's part 1.2 'Crawl animes' can be found in the "master" branch. Also some pr
 I've decided to keep the part 1.2 'Crawl animes' as it is. It takes a lot of time to create the directory tree, but I think it is better to wait
 then to try to do some boring and long tasks by hand. Moreover it just takes one single execution to get the folders, and since I've already done it
 we have all of them (~2GB)
+
+Keep in mind that the folder three I've created is different from the one created by Onur. A typical path in my folder tree is 
+'html_pages/page_0/article_0'.
