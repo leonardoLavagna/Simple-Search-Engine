@@ -5,6 +5,8 @@ As you can see from the article_0.tsv file there is a probem with releaseDate an
 
 The first part of the code was done with Onur's contribution. 
 
+Onur's part 1.2 'Crawl animes' can be found in the "master" branch. Also some previous versions of my notebook can be found in the "LeoL1.3" branch
+
 I've decided to keep the part 1.2 'Crawl animes' as it is. It takes a lot of time to create the directory tree, but I think it is better to wait
 then to try to do some boring and long tasks by hand. Moreover it just takes one single execution to get the folders, and since I've already done it
 we have all of them (~2GB)
