@@ -25,7 +25,7 @@ we have all of them (~2GB)
 REMARK: You should set the 'path' variables to the actual path you've stored article_0 (for example)
 If you have article_0 in the working directory just write path = 'article_0.html' to test the code
 
-REMARK: the folder three I've created is different from the one created by Onur. A typical path in my folder tree is 
+REMARK: the folder tree I've created is different from the one created by Onur. A typical path in my folder tree is 
 'html_pages/page_0.html/article_0.html' and I've written my code accordingly. If you have Onur's folder tree you should adjust the code.
 
 REMARK: The first part of the code was done with Onur's contribution. Onur's part 1.2 'Crawl animes' can be found in the "master" branch. 
