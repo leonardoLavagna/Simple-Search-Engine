@@ -9,7 +9,7 @@ REMARK: You should set the 'path' variables to the actual path you've stored art
 If you have article_0 in the working directory just write path = 'article_0.html' to test the code
 
 REMARK: the folder three I've created is different from the one created by Onur. A typical path in my folder tree is 
-'html_pages/page_0/article_0' and I've written my code accordingly. If you have Onur's folder tree you should adjust the code.
+'html_pages/page_0.html/article_0.html' and I've written my code accordingly. If you have Onur's folder tree you should adjust the code.
 
 REMARK: There is still a little bug with animeDescription. I'm working on it.
 
