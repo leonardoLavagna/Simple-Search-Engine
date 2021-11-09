@@ -1,5 +1,22 @@
-The first part of the code was done with Onur's contribution. Onur's part 1.2 'Crawl animes' can be found in the "master" branch. 
-Also some previous versions of my notebook can be found in the "LeoL1.3" branch. 
+REMARK: The code now works smoothly. There is still a little bug with animeDescription. I'm working on it and I've found a simple fix 
+that I'll upload as soon as I can. 
+
+REMARK: I know the code isn't perfect, but it works! If you can improve it please do (and post it in a branch), but I implore you, use the cells in the
+notebook as they are, because even a small change can produce an error that can be very difficult to spot... The 'equilibrium' 
+of the solution is pretty 'unstable'...
+
+REMARK: We need to generate all the .tsv files. I think it takes quite some time, so it would be nice to split the work
+as Onur proposed. I can create the .tsv files from page 0 to page 99, Onur from page 100 to page 199, and so on... We don't necessarly need to 
+meet in order to complete this task, so if you can please try to run the code and see if it works also on your laptop. I'm sorry if I cannot always
+meet with you, but during the week it is difficult for me to find the time...
+
+REMARK: I couldn't solve the issue with the dates. As discussed I've discarded them complitely. If you think you've solved the issue,
+post the solution in a branch. But, if date fixing means disrupting good parts of the work done untill now I will not consider it. Please 
+understand that I've spent a lot of time (and lost a lot of sleep) on this task and I don't have the mental energy to do it all over again. 
+I hope you don't find it rude... We need to work also on the search engines and it takes time.
+
+REMARK: I added all the 'trys' and 'excepts' with the underlying idea that if an item is missing or missplaced or mispelled etc...
+then the item is 'zero'
 
 REMARK: I've decided to keep the part 1.2 'Crawl animes' as it is. It takes a lot of time to create the directory tree, but I think it is better to wait
 then to try to do some boring and long tasks by hand. Moreover it just takes one single execution to get the folders, and since I've already done it
@@ -11,9 +28,5 @@ If you have article_0 in the working directory just write path = 'article_0.html
 REMARK: the folder three I've created is different from the one created by Onur. A typical path in my folder tree is 
 'html_pages/page_0.html/article_0.html' and I've written my code accordingly. If you have Onur's folder tree you should adjust the code.
 
-REMARK: There is still a little bug with animeDescription. I'm working on it.
-
-REMARK: I couldn't solve the issue with the dates. As discussed I've discarded them complitely. 
-
-REMARK: I added all the 'trys' and 'excepts' with the underlying idea that if an item is missing or missplaced or mispelled etc...
-then the item is 'zero'
+REMARK: The first part of the code was done with Onur's contribution. Onur's part 1.2 'Crawl animes' can be found in the "master" branch. 
+Also some previous versions of my notebook can be found in the "LeoL1.3" branch. 
