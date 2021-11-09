@@ -1,17 +1,21 @@
-You should set the 'path' variables to the actual path you've stored article_0 (for example)
-If you have article_0 in the working directory just write path = 'article_0.html' to test the code
 
-As you can see from the article_0.tsv file there is a probem with releaseDate and endDate. 
 
-The first part of the code was done with Onur's contribution. 
+The first part of the code was done with Onur's contribution. Onur's part 1.2 'Crawl animes' can be found in the "master" branch. 
+Also some previous versions of my notebook can be found in the "LeoL1.3" branch. 
 
-Onur's part 1.2 'Crawl animes' can be found in the "master" branch. Also some previous versions of my notebook can be found in the "LeoL1.3" branch
-
-I've decided to keep the part 1.2 'Crawl animes' as it is. It takes a lot of time to create the directory tree, but I think it is better to wait
+REMARK: I've decided to keep the part 1.2 'Crawl animes' as it is. It takes a lot of time to create the directory tree, but I think it is better to wait
 then to try to do some boring and long tasks by hand. Moreover it just takes one single execution to get the folders, and since I've already done it
 we have all of them (~2GB)
 
-Keep in mind that the folder three I've created is different from the one created by Onur. A typical path in my folder tree is 
-'html_pages/page_0/article_0'. 
+REMARK: You should set the 'path' variables to the actual path you've stored article_0 (for example)
+If you have article_0 in the working directory just write path = 'article_0.html' to test the code
+
+REMARK: the folder three I've created is different from the one created by Onur. A typical path in my folder tree is 
+'html_pages/page_0/article_0' and I've written my code accordingly. If you have Onour's folder tree you should adjust the code.
 
 REMARK: There is still a little bug with animeDescription. I'm working on it.
+
+REMARK: I couldn't solve the issue with the dates. As discussed I've discarded them complitely. 
+
+REMARK: I added all the 'trys' and 'excepts' with the underlying idea that if an item is missing or missplaced or mispelled etc...
+then the item is 'zero'
