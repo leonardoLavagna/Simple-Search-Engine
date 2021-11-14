@@ -1,5 +1,2 @@
 # ADM-HW3
-- Simone Chieppa
-- Onur Ergun
-- Leonardo Lavagna
-- Leonardo Skerl
+## This branch containes all the files and data used in the notebook (see main branch)
