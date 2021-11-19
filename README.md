@@ -1,4 +1,6 @@
 # ADM-HW3
+Our goal is to build a search engine over the "Top Anime Series" from the list of MyAnimeList https://myanimelist.net. 
+## Contributors
 - Simone Chieppa
 - Onur Ergun
 - Leonardo Lavagna
