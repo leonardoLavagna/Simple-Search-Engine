@@ -11,3 +11,7 @@
 - `inverted.json`: contains the inverted index for the Search Engine 2.1
 - `tfidf.json`: contains the inverted index for the Search Engine 2.2
 ## All the previous files can be found in the master branch of this repository
+
+We recommend to download the final notebook with the files in the master branch and execute the appropriate cells 
+in the notebook to check the results and carry out more queries and tests. Some markdown cells, expecially those with LaTeX formulas,
+can be difficult to read in the preview available here.
