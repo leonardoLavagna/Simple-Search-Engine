@@ -1,4 +1,4 @@
-# ADM-HW3
+# Simple Search Engine
 Our goal is to build some Search Engines over the "Top Anime Series" from the list of MyAnimeList https://myanimelist.net.
 ## Contributors
 - Simone Chieppa
