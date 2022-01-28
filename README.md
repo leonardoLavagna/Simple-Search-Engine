@@ -5,7 +5,7 @@ Our goal is to build some Search Engines over the "Top Anime Series" from the li
 - Onur Ergun
 - Leonardo Lavagna
 - Leonardo Skerl
-## The files below where used to test the code and to exchange data between group members
+## The files below where used to test the code and to exchange data between group members (see the files branch of this repository)
 - `html_pages`: folder with all the crawled anime pages
 - `tsv_files.zip`: zipped folder that contains a table for each anime contained in the html_pages subfolders
 - `links.txt`: contains the urls of the animes
