@@ -1,4 +1,4 @@
-# Simple Search Engine
+# A Simple Search Engine: What is the best anime in the world?
 Our goal is to build some Search Engines over the "Top Anime Series" from the list of MyAnimeList https://myanimelist.net.
 ![68747470733a2f2f696c6f766576672e69742f77702d636f6e74656e742f75706c6f6164732f323032302f30352f616e696d652d652d6d616e67612d67656e6572692e6a7067](https://user-images.githubusercontent.com/91341004/151556905-81fbfe53-f928-47ad-a54e-dbed19ffec65.jpg)
 
