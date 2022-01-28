@@ -18,7 +18,7 @@
 
 We recommend to download the final notebook with the files and execute the appropriate cells in the notebook to check the results and carry out more queries and tests. Some markdown cells, expecially those with LaTeX formulas, can be difficult to read in the preview available here.
 ## Outline of the project
-1. Data collection: we will save each anime page in the list in html format (see the files branch of this repository, in particular the `html_pages` folder)
-2. Data parsing: we will extract (web scraping) useful informations from each anime page (e.g. Anime Title, Anime Type, Anime Popularity,...) and store them in a tsv file for each page (see the files btanch of this repository, in particular the `tsv_files.zip` folder)
-3. Conjunctive query and ranking score: we will create a simple search engine (using the inverted index technique, see the files branch of this repository, in particular the `inverted.json` file) that allow the user to carry out conjunctive queries, where the queried documents will be ranked according to the `tfidf` score (see the files branch of this repository, in particular the `tfidf.json` file)
+1. **Data collection**: we will save each anime page in the list in html format (see the files branch of this repository, in particular the `html_pages` folder)
+2. **Data parsing**: we will extract (web scraping) useful informations from each anime page (e.g. Anime Title, Anime Type, Anime Popularity,...) and store them in a tsv file for each page (see the files btanch of this repository, in particular the `tsv_files.zip` folder)
+3. **Conjunctive query and ranking score**: we will create a simple search engine (using the inverted index technique, see the files branch of this repository, in particular the `inverted.json` file) that allow the user to carry out conjunctive queries, where the queried documents will be ranked according to the `tfidf` score (see the files branch of this repository, in particular the `tfidf.json` file)
 4. New Score: we will define a new custom score (instead of the tfidf score) to see how the behaviour of the search engine previously described changes
