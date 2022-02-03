@@ -23,3 +23,4 @@
 
 We recommend to download the final notebook with the files and execute the appropriate cells in the notebook to check the results and carry out more queries and tests. Some markdown cells, expecially those with LaTeX formulas, can be difficult to read in the preview available here.
 
+**Remark .** This project was part of the Algorithmic Methods of Data Mining's course held by Prof. Aris Anagnostopoulos @ Sapienza
